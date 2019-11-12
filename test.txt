@@ -1,2 +1,0 @@
-<?php
-teststs sdsddsdd bala
